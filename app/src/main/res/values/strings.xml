@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Time to Minutes Calculator</string>
+    <string name="calculate_your">CALCULATE YOUR</string>
+    <string name="inMinutes">IN MINUTES</string>
+    <string name="age">AGE</string>
+    <string name="date">Selected Date</string>
+    <string name="userDate" />
+    <string name="minutes" />
+    <string name="tilldate">Minutes Till Date</string>
+</resources>
